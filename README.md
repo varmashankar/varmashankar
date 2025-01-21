@@ -1,75 +1,40 @@
-<h2 align="left">Hi 👋! My name is Shankar Varma and I'm a Full-Stack Website Developer, from India!</h2>
+## Hi there! 👋
 
-###
+I'm Shankar Varma, a passionate website developer based in India. I specialize in building responsive, user-friendly web applications that make a difference. Let's create something amazing together!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varmashankar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varmashankar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I am a skilled website developer proficient in HTML5, CSS3, Bootstrap, JavaScript, ASP.NET, C#, MySQL, and SQL Server. My experience includes utilizing tools like Visual Studio, VS Code, Git, and GitHub. I am always eager to learn and improve my skills.
 
-<img align="right" height="150" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif"  />
+## Skills & Technologies
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
 
-###
+## Top Projects
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+- [Portfolio](https://github.com/varmashankar/portfolio): A personal portfolio website showcasing my projects and skills. ⭐ 0 | Language: HTML
+- [pokemonSearchApp](https://github.com/varmashankar/pokemonSearchApp): A simple web app to search and explore Pokémon data. ⭐ 0 | Language: JavaScript
+- [cashRegister](https://github.com/varmashankar/cashRegister): A simple and efficient Cash Register application for managing transactions. ⭐ 0 | Language: JavaScript
+- [telephoneNumberValidator](https://github.com/varmashankar/telephoneNumberValidator): A program to validate telephone numbers based on specific criteria. ⭐ 0 | Language: CSS
+- [dams](https://github.com/varmashankar/dams): A comprehensive platform for managing doctor appointments. ⭐ 0 | Language: C#
 
-###
+## GitHub Stats
 
-<br clear="both">
+Public Repositories: 11 | Followers: 0 | Following: 0
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varmashankar&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/varmashankar/varmashankar/output/snake.svg" alt="Snake animation" />
+## Recent Activity
 
-###
+- Pushed to [pokemonSearchApp](https://github.com/varmashankar/pokemonSearchApp) - Add files via upload
+- Updated README in [pokemonSearchApp](https://github.com/varmashankar/pokemonSearchApp)
+- Created repository [cashRegister](https://github.com/varmashankar/cashRegister)
+- Pushed to [telephoneNumberValidator](https://github.com/varmashankar/telephoneNumberValidator) - Add files via upload
+- Created repository [dams](https://github.com/varmashankar/dams)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/varmashankar/count.svg?"  />
-</div>
+## Latest Blog Posts
 
-###
+Currently, I do not have any blog posts to share. But stay tuned for updates!
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/shankarvarma_21/"}
